@@ -11,7 +11,7 @@
 - [Einfacher Renditerechner](https://www.pv-now-easy.de/pvnow-easy)
 
 # Horizontdaten
-Aus einem 360 Grad Panoramafoto erstellt man sich die Horizontdaten
+Aus einem 360 Grad Panoramafoto erstellt man sich die Horizontdaten.
 # Bestand
 - Die alte PV hat 3,3 kWp und liefert im Durchschnitt über 20 Jahre rund 3200 kWh/a
 - Aktuell liegt der Verbrauch ca. bei 5000 kWh/a

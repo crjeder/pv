@@ -8,8 +8,10 @@
 - [PV Inspektion](https://solar.htw-berlin.de/themen/stromspeicher-inspektion/)
 - [Sonnenstand](https://www.sunearthtools.com/dp/tools/pos_sun.php?lang=de)
 - [Wind- / und Schneelast](https://www.rechnerphotovoltaik.de/photovoltaik/installation/schneelast-windlast)
+- [Einfacher Renditerechner](https://www.pv-now-easy.de/pvnow-easy)
 
 # Horizontdaten
+Aus einem 360 Grad Panoramafoto erstellt man sich die Horizontdaten
 # Bestand
 - Die alte PV hat 3,3 kWp und liefert im Durchschnitt über 20 Jahre rund 3200 kWh/a
 - Aktuell liegt der Verbrauch ca. bei 5000 kWh/a
